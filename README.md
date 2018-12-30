@@ -14,6 +14,8 @@ A large corpus of labeled training and testing data, consisting of nearly 1 mill
 ### Implementation
 
 #### Assumptions:
+![alt text](https://github.com/singhvis29/Part-of-speech-tagging/blob/master/BayesNets.JPG)
+
 
 
 
